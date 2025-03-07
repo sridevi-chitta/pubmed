@@ -23,23 +23,3 @@ The code is modular, with clearly defined functions:
 
 ---
 
-## Features
-
-- Query PubMed for articles by keyword.
-- Retrieve article metadata efficiently.
-- Filter authors based on company affiliations.
-- Export filtered data into CSV format.
-
----
-
-## Setup Instructions
-
-### Prerequisites
-- Python 3.x
-- `requests` library: Used to interact with the PubMed API.
-- `pandas` library: Used for saving data in CSV format.
-
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/
